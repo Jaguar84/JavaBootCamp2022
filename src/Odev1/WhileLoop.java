@@ -1,6 +1,6 @@
 package Odev1;
 
-public class whileConditionals {
+public class WhileLoop {
     public static void main(String[] args) {
         int i=0;
         while (i<10){
@@ -17,3 +17,4 @@ public class whileConditionals {
 
     }
 }
+

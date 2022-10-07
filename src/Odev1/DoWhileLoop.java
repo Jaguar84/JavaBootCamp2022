@@ -1,6 +1,6 @@
 package Odev1;
 
-public class dowhileConditionals {
+public class DoWhileLoop {
     public static void main(String[] args) {
         int j=1;
 
